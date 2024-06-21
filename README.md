@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Jacob, a software engineering student based in Calgary, AB
+
+### Looking forward to getting to know you
 
 <!--
 **Hahkobeh/Hahkobeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
