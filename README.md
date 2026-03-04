@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jacob, a software engineering student based in Calgary, AB
+### Hi there 👋 I'm Jacob, a software engineer based in Calgary, AB
 
 ### Looking forward to getting to know you
 
